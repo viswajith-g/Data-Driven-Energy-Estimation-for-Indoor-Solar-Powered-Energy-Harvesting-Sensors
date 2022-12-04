@@ -10,7 +10,7 @@ Setup instructions:
 - Download the ipynb notebook and upload to Google Colab.
 
 - The data from RPIs is stored on Google Drive. Go to the shared drive folder "sahb_project" under My Drive > "Shared with me" or from the following link:
-![](https://drive.google.com/drive/folders/17nwR-J_MWU3Q3uYeyw71nZvB8Q-FVkCx?usp=share_link) Either do "Create shortcut" or clone the folder on your Google Drive with the same name "sahb_project", and all paths should automatically line up. 
+[Data GDrive Link (UVA Access)](https://drive.google.com/drive/folders/17nwR-J_MWU3Q3uYeyw71nZvB8Q-FVkCx?usp=share_link) Either do "Create shortcut" or clone the folder on your Google Drive with the same name "sahb_project", and all paths should automatically line up. 
 
 - The data from building sensors is already pulled by the notebook using the LLL book.
 
